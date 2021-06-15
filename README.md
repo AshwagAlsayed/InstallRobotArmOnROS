@@ -1,7 +1,7 @@
 # Installing arduino robot arm on ROS steps
 ## 1.Install Virtual box
 By following this link and choose the appropriate operating system
-// https://www.virtualbox.org/wiki/Downloads
+\\ https://www.virtualbox.org/wiki/Downloads
 
 ## 2. Install Ubuntu 18.04 desktop image
 By following the bellow link
